@@ -1,5 +1,3 @@
-// This code is sponsored by http://coderpro.com
-// by http://youtube.com/techlead
 
 var Maze = (function () {
     var LEFT = 0b0001; //1
