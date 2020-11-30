@@ -1,5 +1,3 @@
-// This code is sponsored by http://coderpro.com
-// by http://youtube.com/techlead
 
 $(function () {
 
